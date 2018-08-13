@@ -1,0 +1,617 @@
+Captain Phasma Elite Trooper 4.71
+Ciena Ree Adept Pilot 1.57
+Dark Advisor 1.1
+Kylo Ren Tormented One 4.71
+First Order Stormtrooper 1.1
+Lobot Cyborg Aide 4.71
+General Hux Aspiring Commander 1.1
+FN-2199 Loyal Trooper 1.57
+General Grievous Jedi Hunter 4.71
+MagnaGuard 1.1
+Droid Commandos 0.79
+General Veers Field Commander 1.57
+Palpatine Darth Sidious 3.14
+Tie Pilot 1.1
+Captain Phasma's Blaster 2.36
+AT-DP 1.57
+E-Web Emplacement 1.1
+Praetorian Guard 0.79
+First Order TIE Fighter 1.1
+Probe Droid 1.1
+Crystal Ball 2.36
+Imperial Discipline 1.1
+Dark Counsel 2.36
+Targeting Computer 2.36
+Force Rend 2.36
+DT-29 Heavy Blaster Pistol 1.57
+F-11D Rifle 2.36
+Quinlan Vos Dark Disciple 2.36
+Force Stasis 0.79
+Count Dooku Devious Strategist 3.14
+Tinker 2.36
+Servant of the Dark Side 1.1
+Asajj Ventress Force Assassin 1.1
+Jedi Rival 0.79
+Kallus Agent of the Empire 3.14
+Darth Vader Dark Apprentice 2.36
+Armored Support 0.79
+Kylo Ren Vader's Deciple 1.57
+Emulate 1.57
+Nute Gunray Separatist Viceroy 1.57
+First Strike 0.79
+Nightsister 1.57
+Fight Back 2.36
+Darth Vader's TIE Advanced 1.1
+Royal Guard 1.1
+I Have You Now 1.1
+Resourceful 2.36
+Commando Shuttle 1.1
+Imperial Envoy 0.79
+Immobilize 1.1
+Surprise Attack 3.14
+Temptation 1.1
+Separatist Landing Craft 3.14
+Mobilize 1.1
+Supply Pack 2.36
+Fragmentation Grenade 3.14
+Lightsaber Pike 1.1
+Tactical Mastery 1.57
+T-21 Repeating Blaster 4.71
+Bazine Netal Master Manipulator 1.1
+Lure of Power 1.1
+As I Have Foreseen 0.79
+Infantry Grenades 0.79
+Vibrosword 4.71
+Bossk Wookiee Slayer 1.57
+Interrogation Droid 1.1
+Clash 2.36
+Speeder Bike Scout 1.1
+Bespin Wing Guard 3.14
+Bib Fortuna Majordomo 1.57
+Aurra Sing Deadly Shot 1.57
+Intimidate 0.79
+Bala-Tik Gang Leader 1.57
+Dry Fields Atollon 1.1
+Gamorrean Guard 1.57
+Guavian Enforcer 1.1
+Your Skills Are Complete 0.79
+Sith Temple Malachor 2.36
+Doubt 0.79
+Cable Launcher 1.1
+Unkar Plutt Junk Dealer 1.57
+Parry 0.79
+Tusken Raider 1.57
+Rebel Traitor 1.1
+Slave I 4.71
+Subjugate 0.79
+Relby-V10 Mortar Gun 1.57
+Ark Angel 1.57
+Hangar Bay Imperial Fleet 0.79
+Flame Thrower 1.1
+General Rieekan Defensive Mastermind 1.1
+BT-1 1.1
+Personal Shield 1.1
+Rey Finding The Ways 2.36
+Gaffi Stick 1.57
+Hera Syndulla Phoenix Leader 1.57
+Slave I 4.71
+Vibroknucklers 1.1
+Poe Dameron More Than A Pilot 3.93
+On the Hunt 2.36
+Hunter Instinct 2.36
+Medical Droid 1.1
+Admiral Ackbar Perceptive Tactician 3.14
+Rookie Pilot 1.57
+Mon Mothma Skilled Politician 1.1
+Strike Team 0.79
+Leia Organa Born Leader 3.14
+BB-9E 1.57
+Rebel Commando 1.57
+Teamwork 0.79
+Temmin "Snap" Wexley Recon Specialist 1.57
+Poe Dameron's Blaster 3.14
+Rebel Trooper 1.57
+A280 Blaster Rifle 1.1
+Jedi Temple Guard 1.57
+Inner Strength 1.1
+Luke Skywalker Unlikely Hero 3.14
+Luke's Protection 1.57
+Jedi Instructor 1.1
+A180 Blaster 1.1
+Honor Guard 2.36
+Scout 1.57
+Kanan Jarrus Rebel Jedi 3.14
+Overkill 1.1
+Direct Hit 0.79
+Survival Gear 1.1
+ETA-2 Interceptor 1.1
+Jedi Acolyte 1.1
+Logistics 1.1
+Training Remote 1.1
+Chirrut Îmwe Blind Warrior 1.57
+Recon 1.57
+Padawan 2.36
+Force Meditation 1.57
+Luminara Unduli Inspiring Commander 1.1
+Strategic Planning 0.79
+Coordination 1.1
+Concentrate 1.57
+Rey Force Prodigy 2.36
+Ezra Bridger Force-sensitive Thief 3.93
+Delta-7 Interceptor 1.1
+Defensive Stance 0.79
+Force Protection 2.36
+Lando Calrissian Galactic Entrepreneur 1.57
+Distraction 0.79
+Jedi Robes 1.1
+Rose Skilled Mechanic 4.71
+Force Heal 1.1
+Do Or Do Not 0.79
+Wookiee Warrior 1.1
+Wedge Antilles Squad Leader 2.36
+Journals of Ben Kenobi 1.1
+Fierce Resolve 0.79
+Chopper 4.71
+Mortar Team 1.1
+R2-D2 1.1
+Evade 0.79
+BB-8 0.79
+Energy Slingshot 1.1
+Resistance Bomber 3.14
+Flank 0.79
+Rey's Staff 1.1
+Tough Haggler 1.1
+Camouflaged Rifle 1.1
+Jyn Erso Relentless Operative 1.57
+Finn First Order Defector 3.14
+T-47 Airspeeder 3.14
+Maz Kanata Pirate Queen 3.14
+Obi-Wan's Hut Tatooine 1.1
+Outer Rim Smuggler 1.1
+Hired Gun 1.57
+Electrostaff 3.14
+Jar Jar Binks Clumsy Outcast 2.36
+Smuggling Freighter 0.79
+Padme Amidala Queen of Naboo 3.14
+Natural Pilot 1.1
+Jedha Partisan 1.57
+Lone Operative 1.1
+Diplomatic Immunity 1.1
+Psychometry 0.79
+Runaway Boomas 3.14
+Supply Line 1.1
+Infiltrate 1.1
+Weapons Cache 1.1
+Astromech 1.1
+Outpost 1.1
+BD-1 Cutter Vibro-AX 1.57
+Roguish Charm 1.57
+Extortion 1.1
+Force Push 4.71
+IQA-11 Blaster Rifle 2.36
+Republic Cruiser 3.93
+Promotion 1.1
+Z-95 Headhunter 1.1
+Makashi Training 3.14
+Force Training 3.14
+EMP Grenades 1.1
+Lightsaber 4.71
+Lead by Example 1.1
+Hush-98 Comlink 1.57
+Ascension Gun 1.57
+Scatterblaster 1.1
+Ground Battalion 2.36
+Con Artist 1.57
+Comlink 1.1
+Commandeer 0.63
+Lookout Post 1.57
+Battle Formation 0.38
+Datapad 2.36
+Crossfire 0.47
+Auto Cannon 1.57
+Imperial War Machine 0.79
+Drop Your Weapon! 0.63
+Lockdown 0.38
+Black Market 0.79
+Imperial Backing 0.63
+74-Z Speeder Bike 4.71
+Sustained Fire 0.63
+Cunning 3.14
+Prepare for War 0.79
+Traitor! 0.63
+Red Alert 0.47
+Trench Warfare 0.38
+Ruthless Tactics 0.47
+Bartering 3.14
+Undying Loyalty 0.38
+Cannon Fodder 0.38
+Take Prisoner 0.63
+Gang Up 1.57
+We Have Them Now 0.79
+Closing the Net 0.38
+Imperial HQ 0.47
+Vibrocutlass 4.71
+Attrition 0.38
+Endless Ranks 1.1
+As You Command 0.47
+Modified HWK-290 2.36
+Imperial Inspection 1.1
+Occupation 0.38
+Cornered Prey 0.47
+Canto Bight Pistol 4.71
+Anger 1.1
+Probe 0.38
+Indomitable 0.79
+Lightsaber Throw 1.57
+Sweep the Area 0.38
+It Will All Be Mine 0.79
+Hunting Rifle 1.1
+Manipulate 0.79
+Tactical Mastery 2.36
+Kill Them All 0.47
+Stun Baton 3.14
+No Disintegrations 0.38
+The Best Defense... 0.79
+Unyielding 0.63
+Consumed By The Dark Side 0.47
+Now You Will Die 0.38
+Drudge Work 0.38
+Insidious 0.47
+Dark Scheme 0.47
+Rise Again 3.14
+Local Garrison 0.63
+Hate 0.63
+Double Strike 1.1
+The Price of Failure 0.38
+Personal Escort 0.38
+Anarchy 0.63
+Frighten 0.47
+Dark Presence 0.79
+Abandon All Hope 1.1
+Bounty Postings 0.47
+I Am Your Father 1.1
+Now I Am The Master 0.38
+Boundless Ambition 0.38
+Buy Out 1.1
+Snare 1.1
+Doubt 0.38
+Enrage 0.38
+Coercion 0.63
+Spell of Removal 0.47
+Arms Deal 0.38
+Feel Your Anger 0.38
+Only Business Matters 0.79
+Witch Magick 0.47
+Bait and Switch 0.38
+Force Strike 1.57
+Pilfered Goods 0.63
+Nightsister Coven 1.1
+Friends in High Places 0.79
+Intimidate 0.38
+Twin Shadows 0.63
+Battle Fatigue 0.47
+Loose Ends 0.63
+Isolation 0.38
+Hutt Ties 0.47
+Crush the Rebellion 0.79
+One-Quarter Portion 0.38
+No Mercy 1.1
+Deadly 1.1
+Imperial Might 0.47
+Relentless Pursuit 0.38
+Pulling the Strings 0.79
+No Survivors 0.47
+Scorched Earth 1.1
+Scrap Buy 0.63
+Emperor's Favor 0.79
+Detention Center 0.63
+Shrapnel Blast 0.47
+Salvage Stand 0.38
+Power of the Dark Side 0.79
+All Quiet On The Front 0.63
+Target Practice 0.47
+Armor Plating 1.1
+Hidden in Shadow 0.79
+Entrenched 0.63
+Three Steps Ahead 1.57
+Emergency Evacuation 0.63
+Nowhere to Run 0.63
+Fortuitous Strike 0.47
+Command Bridge 0.79
+Friendly Fire 0.63
+Ace in the Hole 0.79
+Rearguard 0.47
+Delve 0.79
+Guerrilla Warfare 0.38
+Armed to the Teeth 0.38
+Reckless Reentry 0.63
+Free-For-All 0.79
+Our Only Hope 0.79
+Confiscation 0.63
+Strike Briefing 0.47
+In Pursuit 0.79
+Rebel Assault 0.38
+Fight Dirty 1.1
+Swift Strike 0.47
+No Good To Me Dead 0.47
+Sensor Placement 0.63
+Go for the Kill 0.38
+Rally Aid 0.63
+Rumors 0.47
+Spirit of Rebellion 0.38
+He Doesn't Like You 0.79
+Shield Generator 0.47
+Subdue 0.47
+Planetary Uprising 1.57
+Lying in Wait 0.47
+At Peace 0.47
+Take Flight 0.47
+Spy Net 0.38
+Backup Muscle 0.79
+Bestow 0.47
+Outnumber 0.47
+Tactical Aptitude 0.38
+My Kind of Scum 0.79
+Bring Balance 0.63
+Adapt 0.47
+Underworld Connections 1.1
+Reaping The Crystal 1.1
+Destiny 0.38
+Prized Possession 0.79
+Secret Mission 0.47
+Determination 0.38
+Commando Raid 0.79
+Trust The Force 0.47
+Investigate 0.47
+Guard 2.36
+Defensive Position 0.38
+Funeral Pyre 0.47
+Strength Through Weakness 0.79
+Krayt Dragon Howl 0.38
+Field Medic 0.79
+Yoda's Quarters 0.63
+Unbreakable 0.47
+My Ally Is The Force 0.79
+Hit and Run 0.38
+Fearless 1.1
+Defensive Teaching 2.36
+Synchronicity 0.38
+It's a Trap! 1.1
+Against The Odds 0.47
+Yoda's Hut 1.1
+Your Eyes Can Deceive You 0.79
+Natural Talent 0.38
+Appraise 0.47
+Attack Run 0.47
+Protective Mentor 0.38
+Rearm 0.79
+Bad Feeling 0.47
+Equip 0.47
+Confidence 0.38
+Retreat 0.79
+Double-Cross 0.63
+Final Moment 0.79
+Garbage'll Do 0.38
+Strategic Planning 0.38
+Impersonate 0.63
+Light 'Em Up 0.47
+Hold On! 0.38
+Surgical Strike 0.38
+Local Patrol 0.47
+Mend 2.36
+Rebel 0.79
+Resistance HQ 0.79
+Quick Escape 0.63
+Refit 0.47
+Long Con 0.38
+Anticipate 0.79
+Tenacity 0.47
+Special Modification 0.79
+Loth-Cat and Mouse 0.38
+Defensive Stance 0.79
+Running Interference 1.57
+Suppression Field 1.1
+Never Tell Me The Odds 0.79
+Force Misdirection 0.79
+Thermal Paint 0.47
+Bravado 0.47
+Planned Explosion 0.79
+Heroism 0.38
+Defiance 0.47
+Double-Dealing 0.38
+Noble Sacrifice 0.38
+Covering Fire 0.47
+Explosive Tactics 0.79
+Life Debt 0.63
+Patience 0.38
+Deploy Squadron 0.47
+Impulsive 0.47
+Bombing Run 0.79
+Return of the Jedi 1.1
+Fall Back 0.63
+Scruffy Looking Nerf-Herder 0.47
+Collateral Damage 0.38
+Riposte 1.1
+Feint 1.1
+Smuggler's Run 0.47
+Salvo 0.63
+Willpower 1.57
+Flanking Maneuver 0.79
+Maz's Vault 0.79
+Suppression 0.38
+Jedi Council 0.63
+Heat Of Battle 0.47
+Diplomatic Protection 0.79
+Aftermath 0.38
+Awakening 0.79
+Pinned Down 0.47
+Air Superiority 0.38
+The Force is Strong 0.38
+The Day is Ours 0.47
+Alter 0.47
+Training 1.1
+Daring Escape 0.63
+Drop Zone 0.79
+Ancient Wisdom 0.47
+Wingman 0.38
+Don't Get Cocky 0.38
+Tech Team 0.47
+Feel The Force 0.47
+Decisive Blow 0.38
+Draw Attention 0.38
+Battle of Wills 0.63
+Invigorate 3.14
+High Ground 0.38
+Hyperspace Jump 3.93
+Force Vision 0.47
+Legacies 1.57
+Momentum Shift 0.63
+Let the Wookiee Win 0.63
+Lightsaber Pull 2.36
+Mislead 0.47
+Overconfidence 0.38
+Negotiate 0.47
+Lightsaber Training 0.47
+Respite 0.47
+Premonitions 0.63
+Scavenge 0.38
+No Surrender 0.47
+Stronger You Have Become 1.1
+Rejuvinate 0.38
+Shoot First 0.79
+Something familiar 0.63
+The Force Is With Me 0.47
+Trust Your Instincts 2.36
+Smuggling 0.38
+Voices Cry Out 0.47
+Perserverance 0.47
+Meditate 0.38
+Play the Odds 0.63
+Keen Instincts 0.63
+Resilient 1.57
+Street Informants 0.38
+Battle Rage 0.47
+Crackdown 0.47
+Evade 0.38
+Disable 0.47
+New Orders 1.1
+Award Ceremony 0.38
+Persuade 0.47
+Law and Order 0.47
+Parry 0.38
+Dug In 4.71
+Pickpocket 0.47
+Locked and Loaded 0.47
+Swiftness 0.38
+Firepower 0.38
+Threaten 0.79
+Reinforce 1.1
+Resolve 0.63
+Ammo Belt 0.38
+Leadership 1.1
+Trickery 0.63
+Strength in Numbers 0.47
+Bolt Hole 0.38
+Logistics 0.79
+Truce 0.47
+Sudden Impact 0.79
+Cheat 1.1
+Squad Tactics 0.79
+Stolen Cache 0.47
+Superior Position 0.47
+Diversion 0.38
+Supporting Fire 0.79
+Hidden Agenda 0.79
+Target Intel 0.47
+"Fair" Trade 0.79
+Deflect 1.57
+Mandalorian Armor 0.47
+Bubble Shield 2.36
+Friends in Low Places 0.79
+Disturbance in the Force 0.38
+Dangerous Mission 0.47
+Cover Team 0.47
+Sabotage 0.79
+Mind Trick 1.57
+Endurance 0.79
+Bamboozle 0.47
+Improvisation 0.38
+The Power of the Force 0.79
+Partnership 0.47
+Cantina Brawl 0.79
+Outmaneuver 0.38
+Use the Force 1.57
+Recycle 0.47
+Counter Strike 0.47
+Rend 0.79
+Dangerous Maneuver 0.47
+Carbon-freezing Chamber Bespin 0.63
+Aim 0.79
+Roll On 0.79
+Cargo Hold Eravana 0.38
+All In 1.57
+Plastoid Armor 0.47
+Face-Off 0.47
+Docking Bay Finalizer 0.38
+Block 0.38
+B'Omarr Monastery Teth 0.47
+Hasty Exit 0.47
+Ewok Village Endor 0.47
+Close Quarters Assault 2.36
+Fort Anaxes Anaxes 0.63
+Lure 0.79
+Maz's Castle Takodana 0.63
+Dodge 0.38
+Garel Spaceport Garel 0.63
+Quick Draw 0.47
+Moisture Farm Tatooine 0.63
+Flank 0.63
+Imperial Academy Lothal 0.63
+Otoh Gunga Naboo 0.38
+Take Cover 0.38
+Main Plaza Vashka 0.47
+Well-Connected 0.47
+Secluded Beach Scarif 0.38
+Disarm 0.79
+Medical Center Kaliida Shoals 0.63
+Defend 0.47
+Secret Facility Scarif 0.63
+Port District Bespin 0.63
+Dive 0.47
+War-Torn Streets Jedha 0.38
+Reversal 1.57
+Weapons Factory Alpha Cymoon 1 0.63
+Ice Storm 0.47
+Scramble 0.38
+No Cheating 1.1
+Unpredictable 0.38
+Shelter 0.47
+Infamous 1.57
+Backup Specialist 0.47
+Hunker Down 0.79
+Remote Stockpile 0.47
+Command Center Lothal 0.79
+Scrap Heap 1.1
+Echo Base Hoth 0.63
+Bodyguard 1.1
+Emperor's Throne Room Death Star II 0.79
+Quickdraw Holster 0.47
+Frozen Wastes Starkiller Base 0.79
+Espionage 1.1
+Imperial Armory Death Star 0.38
+Fortify 1.1
+Jedi Temple Coruscant 0.38
+Preemptive Strike 1.1
+Rebel War Room Yavin IV 0.38
+Profitable Connection 1.1
+Mos Eisley Spaceport Tatooine 0.38
+Stolen Intel 0.47
+Separatist Base Mustafar 0.38
+Taking Ground 0.47
+Starship Graveyard Jaku 2.36
+Arid Wasteland Geonosis 1.1
+Citadel Landing Zone Scarif 0.47
+Imperial Palace Coruscant 0.79
+Launch Deck Home One 0.79
+Petranaki Arena Geonosis 0.47
+Power Generator Trench Death Star I 0.79
