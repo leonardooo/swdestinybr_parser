@@ -132,7 +132,259 @@ Carbon-freezing Chamber Bespin
 Maz's Castle Takodana
 Moisture Farm Tatooine
 Secret Facility Scarif
-
-
-
-
+Kylo Ren Tormented One
+Captain Phasma Ruthless Tactician
+Droid Commandos
+Captain Phasma's Blaster
+Praetorian Guard
+Dark Counsel
+Crossguard Lightsaber
+Force Stasis
+Jedi Rival
+Armored Support
+First Strike
+I Have You Now
+Imperial Envoy
+Mobilize
+As I Have Foreseen
+Clash
+Your Skills Are Complete
+Subjugate
+Hangar Bay Imperial Fleet
+Rey Finding The Ways
+Poe Dameron More Than A Pilot
+Medical Droid
+Strike Team
+Teamwork
+Poe Dameron's Blaster
+Rey's Lightsaber
+Inner Strength
+Luke's Protection
+Honor Guard
+Direct Hit
+Recon
+Concentrate
+Distraction
+Do Or Do Not
+Fierce Resolve
+Sound The Alarm
+Obi-Wan's Hut Tatooine
+Maul Vengeful One
+Kylo Ren's Starfighter
+Maul's Lightsaber
+Tarkin Grand Moff
+Grand Moff
+Kallus' Bo-Rifle
+Veteran Stormtrooper
+Boba Fett Deadly Mercenary
+Doctor Aphra Artifact Hunter
+Greedo Unlucky Mercenary
+Slave I
+Hunter Instinct
+Wrist Rockets
+Luke Skywalker Unlikely Hero
+Yoda Wizened Master
+R2-D2
+Obi-Wan Kenobi's Lightsaber
+Finn Soldier of Necessity
+Rebellion Leader
+Han Solo Savvy Smuggler
+Saw Gerrera Extremist Leader
+Zeb Orrelios The Last Lasat
+Millennium Falcon
+Zeb Orrelios' Bo-Rifle
+Force Focus
+Force Wave
+Heirloom Lightsaber
+74-Z Speeder Bike
+Pirate Speeder Tank
+Hidden Blaster
+Hunting Rifle
+Double Strike
+I Am Your Father
+Snare
+Nightsister Coven
+Crush the Rebellion
+Scorched Earth
+Three Steps Ahead
+Command Bridge
+Delve
+Free-For-All
+In Pursuit
+Ataru Strike
+Heightened Awareness
+Strength Through Weakness
+Defensive Teaching
+Yoda's Hut
+Final Moment
+Mend
+Special Modification
+Suppression Field
+Easy Pickings
+Explosive Tactics
+Maz's Vault
+Diplomatic Protection
+Into The Garbage Chute
+Invigorate
+Legacies
+Stronger You Have Become
+Resilient
+Crash Landing
+Reinforce
+Sudden Impact
+Bubble Shield
+Cantina Brawl
+Entangle
+Lure
+Vandalize
+No Cheating
+Scrap Heap
+Bodyguard
+Espionage
+Fortify
+Preemptive Strike
+Arid Wasteland Geonosis
+Imperial Palace Coruscant
+Launch Deck Home One
+Outer Rim Outpost Nal Hutta
+Power Generator Trench Death Star I
+Anakin Skywalker Conflicted Apprentice
+Lobot Cyborg Aide
+Ketsu Onyo Black Sun Operative
+Jawa Scavenger
+Hidden Motive
+Crafted Lightsaber
+Targeting Computer
+Fang Fighter
+Tinker
+Verpine Sniper Rifle
+Emulate
+Fight Back
+Resourceful
+Surprise Attack
+Supply Pack
+T-21 Repeating Blaster
+Vibrosword
+Bespin Wing Guard
+Dry Fields Atollon
+Sith Temple Malachor
+Snoke Supreme Leader
+Crush Hope
+Dark Ritual
+Lack of Faith
+Power From Pain
+Fifth Brother's Lightsaber
+General Grievous Fearsome Cyborg
+Art of War
+Furious Assault
+Overrun
+Blockade
+Climate Disruption Array
+General Grievous' Wheel Bike
+Planetary Bombardment
+DJ Treacherous Rogue
+Extreme Hubris
+Paid Off
+Rancorous
+Sebulba Always Wins
+Formidable
+Luke Skywalker Reluctant Instructor
+Luke's Training
+Pacify
+A99 Aquata Breather
+Ezra Bridger's Lightsaber
+Guardian of the Whills
+Leia Organa Heart of the Resistance
+Rex Clone Captain
+Gungan Offensive
+Motivate
+Long-Term Plan
+Suppressive Fire
+Inspiring Presence
+Rex's Blaster Pistol
+Cassian Andor Rebellion Operative
+Clandestine Operation
+Defensive Racing
+Dumb Luck
+Scoping the Target
+Stealthy
+Dex's Diner
+Control
+Flames of the Past
+Built to Last
+Dagger of Mortis
+Way of the Force
+Hostile Takeover
+Home Turf Advantage
+Hailfire Droid Tank
+Podracer Betting
+Reprogram
+Risky Move
+Start Your Engines!
+Calling in Favors
+Darksaber
+Made to Suffer
+Boonta Eve Classic
+Arena of Death Nar Shaddaa
+Mos Espa Arena Tatooine
+Rift Valley Dathomirs
+Thrawn Master Strategist
+T-7 Ion Disruptor Rifle
+Seventh Sister Agile Inquisitor
+Grand Inquisitor Sith Loyalist
+Grand Inquisitor's Lightsaber
+Cad Bane Vicious Mercenary
+Hound's Tooth
+K-2SO Reprogrammed Droid
+Ghost
+Ahsoka Tano Force Operative
+Mace Windu Jedi Champion
+Master of the Council
+Sabine Wren Explosives Expert
+Chopper
+LR1K Sonic Cannon
+Ancient Lightsaber
+X-8 Night Sniper
+Commandeer
+Drop Your Weapon!
+Imperial Backing
+Take Prisoner
+It Will All Be Mine
+Unyielding
+Hate
+Anarchy
+Buy Out
+Coercion
+Pilfered Goods
+Twin Shadows
+Deadly
+Detention Center
+All Quiet On The Front
+Entrenched
+Reckless Reentry
+Rally Aid
+Bring Balance
+Reaping The Crystal
+Yoda's Quarters
+Fearless
+Double-Cross
+Impersonate
+Quick Escape
+Running Interference
+Fall Back
+Feint
+Flanking Maneuver
+Drop Zone
+Battle of Wills
+Something Familiar
+Keen Instincts
+Threaten
+Trickery
+Hidden Agenda
+Endurance
+Fort Anaxes Anaxes
+Garel Spaceport Garel
+Imperial Academy Lothal
+Mediacal Center Kaliida Shoals
+Port District Bespin
+Weapons Factory Alpha Cymoon 1
